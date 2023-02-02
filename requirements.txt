@@ -111,4 +111,4 @@ urllib3==1.22
 virtualenv==15.2.0
 virtualenvwrapper-win==1.2.5
 websockets==3.2
-Werkzeug==0.15.2
+Werkzeug==0.15.5
